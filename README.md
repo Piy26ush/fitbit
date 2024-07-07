@@ -9,6 +9,27 @@
         NO DATABASE IS CONNECTIVITY IS PROVIDED
         KINDLY MAKE THE NECESSARY CHANGES FOR MORE FEATURES
 
+IF THE CODE DOS'NT WORK KINDLY CREATE AN EVNIRONMENT USING THE BELOW STEPS:
+---------------------
+Using venv (Python 3.3+)
+Create a new environment:
+
+python3 -m venv myenv
+Replace myenv with your desired environment name.
+---------------------
+Activate the environment:
+
+On Windows:
+
+Copy code
+myenv\Scripts\activate
+---------------------
+On macOS and Linux:
+
+Copy code
+source myenv/bin/activate
+---------------------
+
 License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
