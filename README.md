@@ -10,12 +10,12 @@
         KINDLY MAKE THE NECESSARY CHANGES FOR MORE FEATURES
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 Copyright
 © 2024 Darren Irudyanathan. All rights reserved.
 
-Without explicit permission, this project and its content may not be copied, distributed, or reproduced in any form, nor added to any GitHub repository, whether public or private.
+Without explicit permission, this project and its content may not be copied, distributed, or reproduced in any form, nor added to any GitHub repository, whether public or private, except as provided under the terms of the GNU General Public License v3.0.
 
 Contact
 If you have any questions or suggestions, feel free to reach out:
