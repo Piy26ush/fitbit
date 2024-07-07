@@ -1,0 +1,919 @@
+.slider {
+  height: 755px;
+  width: 50%;
+  margin: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-image: url(male0001.png);
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 15px 2px rgba(0, 0, 0, 0.6);
+  animation: slider 7s infinite linear;
+  background-color: rgb(0, 0, 0);
+  filter: alpha(opacity=60);
+  opacity: 0.8;
+}
+body {
+  background-image: url(https://as1.ftcdn.net/v2/jpg/05/63/82/36/1000_F_563823650_teDBcvlCIcmDbf7DgU7xMeHyor0hzZde.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@keyframes slider {
+  0% {
+    background-image: url(male0001.png);
+  }
+  0.34% {
+    background-image: url(male0002.png);
+  }
+  0.68% {
+    background-image: url(male0003.png);
+  }
+  1% {
+    background-image: url(male0004.png);
+  }
+  1.34% {
+    background-image: url(male0005.png);
+  }
+  1.68% {
+    background-image: url(male0006.png);
+  }
+  2% {
+    background-image: url(male0007.png);
+  }
+  2.34% {
+    background-image: url(male0008.png);
+  }
+  2.68% {
+    background-image: url(male0009.png);
+  }
+  3% {
+    background-image: url(male0010.png);
+  }
+  3.34% {
+    background-image: url(male0011.png);
+  }
+  3.68% {
+    background-image: url(male0012.png);
+  }
+  4% {
+    background-image: url(male0013.png);
+  }
+  4.34% {
+    background-image: url(male0014.png);
+  }
+  4.68% {
+    background-image: url(male0015.png);
+  }
+  5% {
+    background-image: url(male0016.png);
+  }
+  5.34% {
+    background-image: url(male0017.png);
+  }
+  5.68% {
+    background-image: url(male0018.png);
+  }
+  6% {
+    background-image: url(male0019.png);
+  }
+  6.34% {
+    background-image: url(male0020.png);
+  }
+  6.68% {
+    background-image: url(male0021.png);
+  }
+  7% {
+    background-image: url(male0022.png);
+  }
+  7.34% {
+    background-image: url(male0023.png);
+  }
+  7.68% {
+    background-image: url(male0024.png);
+  }
+  8% {
+    background-image: url(male0025.png);
+  }
+  8.34% {
+    background-image: url(male0026.png);
+  }
+  8.68% {
+    background-image: url(male0027.png);
+  }
+  9% {
+    background-image: url(male0028.png);
+  }
+  9.34% {
+    background-image: url(male0029.png);
+  }
+  9.68% {
+    background-image: url(male0030.png);
+  }
+  10% {
+    background-image: url(male0031.png);
+  }
+  10.34% {
+    background-image: url(male0032.png);
+  }
+  10.68% {
+    background-image: url(male0033.png);
+  }
+  11% {
+    background-image: url(male0034.png);
+  }
+  11.34% {
+    background-image: url(male0035.png);
+  }
+  11.68% {
+    background-image: url(male0036.png);
+  }
+  12% {
+    background-image: url(male0037.png);
+  }
+  12.34% {
+    background-image: url(male0038.png);
+  }
+  12.68% {
+    background-image: url(male0039.png);
+  }
+  13% {
+    background-image: url(male0040.png);
+  }
+  13.34% {
+    background-image: url(male0041.png);
+  }
+  13.68% {
+    background-image: url(male0042.png);
+  }
+  14% {
+    background-image: url(male0043.png);
+  }
+  14.34% {
+    background-image: url(male0044.png);
+  }
+  14.68% {
+    background-image: url(male0045.png);
+  }
+  15% {
+    background-image: url(male0046.png);
+  }
+  15.34% {
+    background-image: url(male0047.png);
+  }
+  15.68% {
+    background-image: url(male0048.png);
+  }
+  16% {
+    background-image: url(male0049.png);
+  }
+  16.34% {
+    background-image: url(male0050.png);
+  }
+  16.68% {
+    background-image: url(male0051.png);
+  }
+  17% {
+    background-image: url(male0052.png);
+  }
+  17.34% {
+    background-image: url(male0053.png);
+  }
+  17.68% {
+    background-image: url(male0054.png);
+  }
+  18% {
+    background-image: url(male0055.png);
+  }
+  18.34% {
+    background-image: url(male0056.png);
+  }
+  18.68% {
+    background-image: url(male0057.png);
+  }
+  19% {
+    background-image: url(male0058.png);
+  }
+  19.34% {
+    background-image: url(male0059.png);
+  }
+  19.68% {
+    background-image: url(male0060.png);
+  }
+  20% {
+    background-image: url(male0061.png);
+  }
+  20.34% {
+    background-image: url(male0062.png);
+  }
+  20.68% {
+    background-image: url(male0063.png);
+  }
+  21% {
+    background-image: url(male0064.png);
+  }
+  21.34% {
+    background-image: url(male0065.png);
+  }
+  21.68% {
+    background-image: url(male0066.png);
+  }
+  22% {
+    background-image: url(male0067.png);
+  }
+  22.34% {
+    background-image: url(male0068.png);
+  }
+  22.68% {
+    background-image: url(male0069.png);
+  }
+  23% {
+    background-image: url(male0070.png);
+  }
+  23.34% {
+    background-image: url(male0071.png);
+  }
+  23.68% {
+    background-image: url(male0072.png);
+  }
+  24% {
+    background-image: url(male0073.png);
+  }
+  24.34% {
+    background-image: url(male0075.png);
+  }
+  24.68% {
+    background-image: url(male0076.png);
+  }
+  25% {
+    background-image: url(male0077.png);
+  }
+  25.34% {
+    background-image: url(male0078.png);
+  }
+  25.68% {
+    background-image: url(male0079.png);
+  }
+  26% {
+    background-image: url(male0080.png);
+  }
+  26.34% {
+    background-image: url(male0081.png);
+  }
+  26.68% {
+    background-image: url(male0082.png);
+  }
+  27% {
+    background-image: url(male0083.png);
+  }
+  27.34% {
+    background-image: url(male0084.png);
+  }
+  27.68% {
+    background-image: url(male0085.png);
+  }
+  28% {
+    background-image: url(male0086.png);
+  }
+  28.34% {
+    background-image: url(male0087.png);
+  }
+  28.68% {
+    background-image: url(male0088.png);
+  }
+  29% {
+    background-image: url(male0089.png);
+  }
+  29.34% {
+    background-image: url(male0090.png);
+  }
+  29.68% {
+    background-image: url(male0091.png);
+  }
+  30% {
+    background-image: url(male0092.png);
+  }
+  30.34% {
+    background-image: url(male0093.png);
+  }
+  30.38% {
+    background-image: url(male0094.png);
+  }
+  31% {
+    background-image: url(male0095.png);
+  }
+  31.34% {
+    background-image: url(male0096.png);
+  }
+  31.68% {
+    background-image: url(male0097.png);
+  }
+  32% {
+    background-image: url(male0098.png);
+  }
+  32.34% {
+    background-image: url(male0099.png);
+  }
+  32.68% {
+    background-image: url(male0100.png);
+  }
+  33% {
+    background-image: url(male0101.png);
+  }
+  33.34% {
+    background-image: url(male0102.png);
+  }
+  33.68% {
+    background-image: url(male0103.png);
+  }
+  34% {
+    background-image: url(male0104.png);
+  }
+  34.34% {
+    background-image: url(male0105.png);
+  }
+  34.68% {
+    background-image: url(male0106.png);
+  }
+  35% {
+    background-image: url(male0107.png);
+  }
+  35.34% {
+    background-image: url(male0108.png);
+  }
+  35.68% {
+    background-image: url(male0109.png);
+  }
+  36% {
+    background-image: url(male0110.png);
+  }
+  36.34% {
+    background-image: url(male0111.png);
+  }
+  36.68% {
+    background-image: url(male0112.png);
+  }
+  37% {
+    background-image: url(male0113.png);
+  }
+  37.34% {
+    background-image: url(male0114.png);
+  }
+  37.68% {
+    background-image: url(male0115.png);
+  }
+  38.34% {
+    background-image: url(male0116.png);
+  }
+  38.68% {
+    background-image: url(male0117.png);
+  }
+  39% {
+    background-image: url(male0118.png);
+  }
+  39.34% {
+    background-image: url(male0119.png);
+  }
+  39.68% {
+    background-image: url(male0120.png);
+  }
+  40% {
+    background-image: url(male0121.png);
+  }
+  40.34% {
+    background-image: url(male0122.png);
+  }
+  40.68% {
+    background-image: url(male0123.png);
+  }
+  41% {
+    background-image: url(male0124.png);
+  }
+  41.34% {
+    background-image: url(male0125.png);
+  }
+  41.68% {
+    background-image: url(male0126.png);
+  }
+  42% {
+    background-image: url(male0127.png);
+  }
+  42.34% {
+    background-image: url(male0128.png);
+  }
+  42.68% {
+    background-image: url(male0129.png);
+  }
+  43% {
+    background-image: url(male0130.png);
+  }
+  43.34% {
+    background-image: url(male0131.png);
+  }
+  43.68% {
+    background-image: url(male0132.png);
+  }
+  44% {
+    background-image: url(male0133.png);
+  }
+  44.34% {
+    background-image: url(male0134.png);
+  }
+  44.68% {
+    background-image: url(male0135.png);
+  }
+  45% {
+    background-image: url(male0136.png);
+  }
+  45.34% {
+    background-image: url(male0137.png);
+  }
+  45.68% {
+    background-image: url(male0138.png);
+  }
+  46% {
+    background-image: url(male0139.png);
+  }
+  46.34% {
+    background-image: url(male0140.png);
+  }
+  46.68% {
+    background-image: url(male0141.png);
+  }
+  47% {
+    background-image: url(male0142.png);
+  }
+  47.34% {
+    background-image: url(male0143.png);
+  }
+  47.68% {
+    background-image: url(male0144.png);
+  }
+  48% {
+    background-image: url(male0145.png);
+  }
+  48.34% {
+    background-image: url(male0146.png);
+  }
+  48.68% {
+    background-image: url(male0147.png);
+  }
+  49% {
+    background-image: url(male0148.png);
+  }
+  49.34% {
+    background-image: url(male0149.png);
+  }
+  49.68% {
+    background-image: url(male0150.png);
+  }
+  50% {
+    background-image: url(male0151.png);
+  }
+  50.34% {
+    background-image: url(male0152.png);
+  }
+  50.68% {
+    background-image: url(male0153.png);
+  }
+  51% {
+    background-image: url(male0154.png);
+  }
+  51.34% {
+    background-image: url(male0155.png);
+  }
+  51.68% {
+    background-image: url(male0156.png);
+  }
+  52% {
+    background-image: url(male0157.png);
+  }
+  52.34% {
+    background-image: url(male0158.png);
+  }
+  52.68% {
+    background-image: url(male0159.png);
+  }
+  53% {
+    background-image: url(male0160.png);
+  }
+  53.34% {
+    background-image: url(male0161.png);
+  }
+  53.68% {
+    background-image: url(male0162.png);
+  }
+  54% {
+    background-image: url(male0163.png);
+  }
+  54.34% {
+    background-image: url(male0164.png);
+  }
+  54.68% {
+    background-image: url(male0165.png);
+  }
+  55% {
+    background-image: url(male0166.png);
+  }
+  55.34% {
+    background-image: url(male0167.png);
+  }
+  55.68% {
+    background-image: url(male0168.png);
+  }
+  56% {
+    background-image: url(male0169.png);
+  }
+  56.34% {
+    background-image: url(male0170.png);
+  }
+  56.68% {
+    background-image: url(male0171.png);
+  }
+  57% {
+    background-image: url(male0172.png);
+  }
+  57.34% {
+    background-image: url(male0173.png);
+  }
+  57.68% {
+    background-image: url(male0174.png);
+  }
+  58% {
+    background-image: url(male0175.png);
+  }
+  58.34% {
+    background-image: url(male0176.png);
+  }
+  58.68% {
+    background-image: url(male0177.png);
+  }
+  59% {
+    background-image: url(male0178.png);
+  }
+  59.34% {
+    background-image: url(male0179.png);
+  }
+  59.68% {
+    background-image: url(male0180.png);
+  }
+  60% {
+    background-image: url(male0181.png);
+  }
+  60.34% {
+    background-image: url(male0182.png);
+  }
+  60.68% {
+    background-image: url(male0183.png);
+  }
+  61% {
+    background-image: url(male0184.png);
+  }
+  61.34% {
+    background-image: url(male0185.png);
+  }
+  61.68% {
+    background-image: url(male0186.png);
+  }
+  62% {
+    background-image: url(male0187.png);
+  }
+  62.34% {
+    background-image: url(male0188.png);
+  }
+  62.68% {
+    background-image: url(male0189.png);
+  }
+  63% {
+    background-image: url(male0190.png);
+  }
+  63.34% {
+    background-image: url(male0191.png);
+  }
+  63.68% {
+    background-image: url(male0192.png);
+  }
+  64% {
+    background-image: url(male0193.png);
+  }
+  64.34% {
+    background-image: url(male0194.png);
+  }
+  64.68% {
+    background-image: url(male0195.png);
+  }
+  65% {
+    background-image: url(male0196.png);
+  }
+  65.34% {
+    background-image: url(male0197.png);
+  }
+  65.68% {
+    background-image: url(male0198.png);
+  }
+  66% {
+    background-image: url(male0199.png);
+  }
+  66.34% {
+    background-image: url(male0200.png);
+  }
+  66.68% {
+    background-image: url(male0201.png);
+  }
+  67% {
+    background-image: url(male0202.png);
+  }
+  67.34% {
+    background-image: url(male0203.png);
+  }
+  67.68% {
+    background-image: url(male0204.png);
+  }
+  68% {
+    background-image: url(male0205.png);
+  }
+  68.34% {
+    background-image: url(male0206.png);
+  }
+  68.68% {
+    background-image: url(male0207.png);
+  }
+  69% {
+    background-image: url(male0208.png);
+  }
+  69.34% {
+    background-image: url(male0209.png);
+  }
+  69.68% {
+    background-image: url(male0210.png);
+  }
+  70% {
+    background-image: url(male0211.png);
+  }
+  70.34% {
+    background-image: url(male0212.png);
+  }
+  70.68% {
+    background-image: url(male0213.png);
+  }
+  71% {
+    background-image: url(male0214.png);
+  }
+  71.34% {
+    background-image: url(male0215.png);
+  }
+  71.68% {
+    background-image: url(male0216.png);
+  }
+  72% {
+    background-image: url(male0217.png);
+  }
+  72.34% {
+    background-image: url(male0218.png);
+  }
+  72.68% {
+    background-image: url(male0219.png);
+  }
+  73% {
+    background-image: url(male0220.png);
+  }
+  73.34% {
+    background-image: url(male0221.png);
+  }
+  73.68% {
+    background-image: url(male0222.png);
+  }
+  74% {
+    background-image: url(male0223.png);
+  }
+  74.34% {
+    background-image: url(male0224.png);
+  }
+  74.68% {
+    background-image: url(male0225.png);
+  }
+  75% {
+    background-image: url(male0226.png);
+  }
+  75.34% {
+    background-image: url(male0227.png);
+  }
+  75.68% {
+    background-image: url(male0228.png);
+  }
+  76% {
+    background-image: url(male0229.png);
+  }
+  76.34% {
+    background-image: url(male0230.png);
+  }
+  76.68% {
+    background-image: url(male0231.png);
+  }
+  77% {
+    background-image: url(male0232.png);
+  }
+  77.34% {
+    background-image: url(male0233.png);
+  }
+  77.68% {
+    background-image: url(male0234.png);
+  }
+  78% {
+    background-image: url(male0235.png);
+  }
+  78.34% {
+    background-image: url(male0236.png);
+  }
+  78.68% {
+    background-image: url(male0237.png);
+  }
+  79% {
+    background-image: url(male0238.png);
+  }
+  79.34% {
+    background-image: url(male0239.png);
+  }
+  79.88% {
+    background-image: url(male0240.png);
+  }
+  80% {
+    background-image: url(male0241.png);
+  }
+  80.34% {
+    background-image: url(male0242.png);
+  }
+  80.68% {
+    background-image: url(male0243.png);
+  }
+  81% {
+    background-image: url(male0244.png);
+  }
+  81.34% {
+    background-image: url(male0245.png);
+  }
+  81.68% {
+    background-image: url(male0246.png);
+  }
+  82% {
+    background-image: url(male0247.png);
+  }
+  82.34% {
+    background-image: url(male0248.png);
+  }
+  82.68% {
+    background-image: url(male0249.png);
+  }
+  83% {
+    background-image: url(male0250.png);
+  }
+  83.34% {
+    background-image: url(male0251.png);
+  }
+  83.68% {
+    background-image: url(male0252.png);
+  }
+  84% {
+    background-image: url(male0253.png);
+  }
+  84.34% {
+    background-image: url(male0254.png);
+  }
+  84.68% {
+    background-image: url(male0255.png);
+  }
+  85% {
+    background-image: url(male0256.png);
+  }
+  85.34% {
+    background-image: url(male0257.png);
+  }
+  85.68% {
+    background-image: url(male0258.png);
+  }
+  86% {
+    background-image: url(male0259.png);
+  }
+  86.34% {
+    background-image: url(male0260.png);
+  }
+  86.68% {
+    background-image: url(male0261.png);
+  }
+  87% {
+    background-image: url(male0262.png);
+  }
+  87.34% {
+    background-image: url(male0263.png);
+  }
+  87.68% {
+    background-image: url(male0264.png);
+  }
+  88% {
+    background-image: url(male0265.png);
+  }
+  88.34% {
+    background-image: url(male0266.png);
+  }
+  88.68% {
+    background-image: url(male0267.png);
+  }
+  89% {
+    background-image: url(male0268.png);
+  }
+  89.34% {
+    background-image: url(male0269.png);
+  }
+  89.68% {
+    background-image: url(male0270.png);
+  }
+  90% {
+    background-image: url(male0271.png);
+  }
+  90.34% {
+    background-image: url(male0272.png);
+  }
+  90.68% {
+    background-image: url(male0273.png);
+  }
+  91% {
+    background-image: url(male0274.png);
+  }
+  91.34% {
+    background-image: url(male0275.png);
+  }
+  91.68% {
+    background-image: url(male0276.png);
+  }
+  92% {
+    background-image: url(male0277.png);
+  }
+  92.34% {
+    background-image: url(male0278.png);
+  }
+  92.68% {
+    background-image: url(male0279.png);
+  }
+  93% {
+    background-image: url(male0280.png);
+  }
+  93.34% {
+    background-image: url(male0281.png);
+  }
+  93.68% {
+    background-image: url(male0282.png);
+  }
+  94% {
+    background-image: url(male0283.png);
+  }
+  94.34% {
+    background-image: url(male0284.png);
+  }
+  94.68% {
+    background-image: url(male0285.png);
+  }
+  95% {
+    background-image: url(male0286.png);
+  }
+  95.34% {
+    background-image: url(male0287.png);
+  }
+  95.68% {
+    background-image: url(male0288.png);
+  }
+  96% {
+    background-image: url(male0289.png);
+  }
+  96.34% {
+    background-image: url(male0290.png);
+  }
+  96.68% {
+    background-image: url(male0291.png);
+  }
+  97% {
+    background-image: url(male0292.png);
+  }
+  97.34% {
+    background-image: url(male0293.png);
+  }
+  97.68% {
+    background-image: url(male0294.png);
+  }
+  98% {
+    background-image: url(male0295.png);
+  }
+  98.34% {
+    background-image: url(male0296.png);
+  }
+  98.68% {
+    background-image: url(male0297.png);
+  }
+  99% {
+    background-image: url(male0298.png);
+  }
+  99.50% {
+    background-image: url(male0299.png);
+  }
+  100% {
+    background-image: url(male0300.png);
+  }
+}
