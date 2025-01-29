@@ -10,15 +10,15 @@
   <body>
     <div class="center">
       <div class="outer circle">
-        <a href="/Login/index.html"><button>Fitcheck</button></a>
+        <a href="Login/index.html"><button>Fitcheck</button></a>
         <span></span>
         <span></span>
       </div>
     </div>
     <script>
-      const button = document.querySelector(".outer ");
+      const button = document.querySelector(".outer");
       button.addEventListener("click", (e) => {
-        e.preventDefault;
+        e.preventDefault(); // Fixed the issue here
         button.classList.add("animate");
         setTimeout(() => {
           button.classList.remove("animate");
