@@ -2,19 +2,18 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" />
-    <meta
-      http-equiv="refresh"
-      content="5; url=http://127.0.0.1:5500/CB/chatbox.html"
-    />
+    <!-- Adjusted the redirect URL to a relative one -->
+    <meta http-equiv="refresh" content="5; url=chatbox.html" />
     <title>Loading Animation</title>
     <link rel="stylesheet" href="loader.css" />
   </head>
   <body>
-    <div class="loader">
+    <div id="loader" class="loader">
       <div class="ring"></div>
       <span>loading...</span>
     </div>
     <script>
+      // Hide the loader when the page has fully loaded
       var loader = document.getElementById("loader");
 
       window.addEventListener("load", function () {
