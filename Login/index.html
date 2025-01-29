@@ -8,24 +8,24 @@
     <section>
       <div class="form-box">
         <div class="form-value">
-          <form action="path_to_backend_script_or_route" id="form1">
+          <form action="path_to_backend_script_or_route" id="form1" method="POST">
             <h2>Login</h2>
             <div class="inputbox">
               <ion-icon name="mail-outline"></ion-icon>
-              <input type="text" />
-              <label for="">User_Code</label>
+              <input type="text" id="user_code" required />
+              <label for="user_code">User_Code</label>
             </div>
 
             <div class="forget">
               <label for="">
-                <input type="checkbox" />Remember Me &nbsp;
+                <input type="checkbox" id="remember_me" /> Remember Me &nbsp;
                 <a href="forgot%20user_code/Progress%20Form/loader.html">Forget User_Code</a>
               </label>
             </div>
+
+            <button type="submit" id="login_button">Log In</button>
           </form>
-          <a href="fitbit/CB/Progress%20Form/loader.html">
-            <button id="button">Log In</button>
-          </a>
+          
           <div class="register">
             <p>
               Don't have an account? <a href="Register/Login/Progress%20Form/loader.html">Register</a>
@@ -34,13 +34,26 @@
         </div>
       </div>
     </section>
-    <script
-      type="module"
-      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
-    ></script>
-    <script
-      nomodule
-      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
-    ></script>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+    <script>
+      // Handle form submission using JavaScript
+      document.getElementById('form1').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent the default form submission
+        
+        const userCode = document.getElementById('user_code').value;
+        const rememberMe = document.getElementById('remember_me').checked;
+
+        // Simulate login validation (you can replace this with an AJAX call)
+        console.log('User Code:', userCode);
+        console.log('Remember Me:', rememberMe);
+
+        // If login is successful, redirect to the loader page
+        // Replace the URL with the actual redirection target page
+        window.location.href = 'fitbit/CB/Progress%20Form/loader.html';
+      });
+    </script>
   </body>
 </html>
