@@ -59,3 +59,4 @@ DATA FLOW DIAGRAM: ![image](https://github.com/darrenirudyanathan/Fitness_websit
 DATA DICTIONARY: ![image](https://github.com/darrenirudyanathan/Fitness_website_frontend_with_login_AI_Interface_PDF_Invoice_Payment_portal_and_Youtube_interface/assets/146755990/867c8bdc-ef7f-4683-a424-932ca58e7b43)
 
 # Fitness_website_frontend_with_login_AI_Interface_PDF_Invoice_Payment_portal_and_Youtube_interface
+# Fitcheck
